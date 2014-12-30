@@ -14,6 +14,7 @@
 		B0AD7F361A52393D00B3821E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0AD7F351A52393D00B3821E /* Images.xcassets */; };
 		B0AD7F391A52393D00B3821E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0AD7F371A52393D00B3821E /* LaunchScreen.xib */; };
 		B0AD7F451A52393D00B3821E /* Plain_Ol__NotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0AD7F441A52393D00B3821E /* Plain_Ol__NotesTests.swift */; };
+		B0AD7F4F1A523F1A00B3821E /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0AD7F4E1A523F1A00B3821E /* Note.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		B0AD7F3E1A52393D00B3821E /* Plain Ol' NotesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Plain Ol' NotesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0AD7F431A52393D00B3821E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B0AD7F441A52393D00B3821E /* Plain_Ol__NotesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plain_Ol__NotesTests.swift; sourceTree = "<group>"; };
+		B0AD7F4E1A523F1A00B3821E /* Note.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				B0AD7F2C1A52393D00B3821E /* AppDelegate.swift */,
+				B0AD7F4E1A523F1A00B3821E /* Note.swift */,
 				B0AD7F2E1A52393D00B3821E /* MasterViewController.swift */,
 				B0AD7F301A52393D00B3821E /* DetailViewController.swift */,
 				B0AD7F321A52393D00B3821E /* Main.storyboard */,
@@ -218,6 +221,7 @@
 				B0AD7F311A52393D00B3821E /* DetailViewController.swift in Sources */,
 				B0AD7F2F1A52393D00B3821E /* MasterViewController.swift in Sources */,
 				B0AD7F2D1A52393D00B3821E /* AppDelegate.swift in Sources */,
+				B0AD7F4F1A523F1A00B3821E /* Note.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

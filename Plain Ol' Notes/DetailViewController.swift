@@ -2,8 +2,8 @@
 //  DetailViewController.swift
 //  Plain Ol' Notes
 //
-//  Created by Steven Pezzi on 12/29/14.
-//  Copyright (c) 2014 The Pez. All rights reserved.
+//  Created by The Pez on 12/29/14.
+//  Copyright (c) 2014 WigWag Workshop. All rights reserved.
 //
 
 import UIKit
